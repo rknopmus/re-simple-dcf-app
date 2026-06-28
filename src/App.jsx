@@ -21,7 +21,7 @@ const DEFAULT_INPUTS = {
 
 const TEXT = {
   en: {
-    title: "Real Estate DCF Pro - Roberto Knop",
+    title: "DCF Pro - Roberto Knop",
     subtitle: "Professional real estate valuation model with manual inputs, NPV, IRR, CAGR, payback, sensitivity and scenario analysis.",
     reset: "Reset", print: "Generate PDF Report", year: "Year", years: "years", inputs: "Valuation Inputs", analysis: "Analysis",
     maturity: "Project Maturity (Years)", year1Income: "Year 1 Income", incomeGrowth: "Income Growth Rate (%)", year1Expenses: "Year 1 Expenses", expenseGrowth: "Expense Growth Rate (%)", exitCapRate: "Exit Cap Rate (%)", discountRate: "Discount Rate (%)",
