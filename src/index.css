@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { margin: 0; }
+@media print { .no-print { display: none !important; } body { background: white !important; } .print-card { break-inside: avoid; } }
